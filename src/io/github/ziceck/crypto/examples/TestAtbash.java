@@ -9,7 +9,7 @@ import io.github.ziceck.crypto.Atbash;
 import io.github.ziceck.crypto.exception.AtbashException;
 
 /**
- *
+ * This is an simple test to use Atbash class.
  * @author Ziceck
  */
 public class TestAtbash {
