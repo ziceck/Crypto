@@ -6,9 +6,11 @@
 package io.github.ziceck.crypto.examples;
 
 /**
- *
+ * This is a simple test to use Vigenere class.
  * @author Ziceck
  */
 public class TestVigenere {
-    
+    public static void main(String[] args) {
+        
+    }
 }

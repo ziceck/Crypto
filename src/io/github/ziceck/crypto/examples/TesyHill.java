@@ -6,9 +6,11 @@
 package io.github.ziceck.crypto.examples;
 
 /**
- *
+ * This a simple test to use Hill class.
  * @author Ziceck
  */
 public class TesyHill {
-    
+    public static void main(String[] args) {
+        
+    }
 }

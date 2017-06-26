@@ -6,7 +6,7 @@
 package io.github.ziceck.crypto.examples;
 
 /**
- *
+ * This is an simple test to use RootN class.
  * @author Ziceck
  */
 public class TestRootN {
